@@ -22,7 +22,7 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "jsdom": "^16.6.0",
-    "pdfmake": "github:Bmt-Mek/pdfmake",
+    "pdfmake": "github:Bmt-Mek/pdfmake#v0.3.0-beta.8",
     "simple-test-framework": "^0.1.7",
     "svg-to-pdfkit": "^0.1.8"
   }
