@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aymkdn/html-to-pdfmake.git"
+    "url": "git+https://github.com/Bmt-Mek/html-to-pdfmake.git"
   },
   "author": "Aymkdn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Aymkdn/html-to-pdfmake/issues"
+    "url": "https://github.com/Bmt-Mek/html-to-pdfmake/issues"
   },
-  "homepage": "https://github.com/Aymkdn/html-to-pdfmake#readme",
+  "homepage": "https://github.com/Bmt-Mek/html-to-pdfmake#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
     "jsdom": "^16.6.0",
-    "pdfmake": "^0.2.7",
+    "pdfmake": "github:Bmt-Mek/pdfmake",
     "simple-test-framework": "^0.1.7",
     "svg-to-pdfkit": "^0.1.8"
   }
